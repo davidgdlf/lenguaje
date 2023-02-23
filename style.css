@@ -1,0 +1,154 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    background-color: orange;
+    border-radius: 20px;
+}
+nav {
+    background-color: #333;
+    border-radius: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+footer{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+
+}
+
+a:hover{
+    color: blueviolet;
+    text-decoration: line-through;
+
+}
+
+.formulario{
+  background-color: rgb(0, 128, 28);
+  
+}
+
+
+@media (max-width: 768px) {
+    nav ul {
+      flex-direction: column;
+    }
+  
+    nav li {
+      margin: 10px 0;
+    }
+  
+    .menu-toggle {
+      display: block;
+      text-align: center;
+      color: #fff;
+      font-weight: bold;
+      text-transform: uppercase;
+      cursor: pointer;
+    }
+  
+    .menu-toggle:hover {
+      background-color: #555;
+    }
+  
+    .menu-toggle:focus {
+      outline: none;
+    }
+  
+    .menu-toggle:before {
+      content: "\f0c9";
+      font-family: FontAwesome;
+      margin-right: 5px;
+    }
+  
+    .menu-toggle.collapsed:before {
+      content: "\f0c9";
+    }
+  
+    .menu-toggle:not(.collapsed):before {
+      content: "\f00d";
+    }
+  
+    nav.collapsed ul {
+      display: none;
+    }
+  }
+
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+
+.table td, .table th {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+  font-size: 14px;
+}
+
+
+.table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+
+
+@media (max-width: 767px) {
+
+  .table td, .table th {
+    font-size: 10px;
+  }
+
+  .table th {
+    display: none;
+  }
+  
+  .table td {
+    border: none;
+    position: relative;
+    text-align: left;
+  }
+
+  .table td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    width: 50%;
+    padding-left: 8px;
+    font-weight: bold;
+  }
+}
+
+    
+
+
+  

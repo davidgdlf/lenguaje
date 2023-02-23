@@ -1,0 +1,2540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pedidos SYSTEM "./dtd.dtd">
+<pedidos>
+    <pedido>
+        <numero>1</numero>
+        <nombre>Miriam</nombre>
+        <apellido>villar</apellido>
+        <telefono>636089978</telefono>
+        <direccion>
+            <calle>Avenida María Moliner</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>M.villar@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>02/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>01</id_pedido>
+            <fecha_compra>19/02/2021</fecha_compra>
+            <fecha_entrega>28/02/2021</fecha_entrega>
+            <total_factura>104€</total_factura>
+            <producto>
+                <nombre_producto>Camiseta 1º Equipacion Barsa Europa</nombre_producto>
+                <referencia>01</referencia>
+                <precio>104€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>2</numero>
+        <nombre>Mauro</nombre>
+        <apellido>Ortiz</apellido>
+        <telefono>612679823</telefono>
+        <direccion>
+            <calle>Calle maria moliner</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>M.ortiz@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>05/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>02</id_pedido>
+            <fecha_compra>20/02/2021</fecha_compra>
+            <fecha_entrega>22/02/2021</fecha_entrega>
+            <total_factura>64€</total_factura>
+            <producto>
+                <nombre_producto>Sudadera entrenamiento barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>64€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>3</numero>
+        <nombre>Iván</nombre>
+        <apellido>Gonzalez</apellido>
+        <telefono>638983765</telefono>
+        <direccion>
+            <calle>Calle clara janés</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>I.gonzalez@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>06/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>03</id_pedido>
+            <fecha_compra>25/02/2021</fecha_compra>
+            <fecha_entrega>28/02/2021</fecha_entrega>
+            <total_factura>16€</total_factura>
+            <producto>
+                <nombre_producto>bufanda del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>16€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>4</numero>
+        <nombre>Iván</nombre>
+        <apellido>Encinas</apellido>
+        <telefono>638563555</telefono>
+        <direccion>
+            <calle>AV Europa</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>I.encinas@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>09/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>04</id_pedido>
+            <fecha_compra>26/02/2021</fecha_compra>
+            <fecha_entrega>28/02/2021</fecha_entrega>
+            <total_factura>22€</total_factura>
+            <producto>
+                <nombre_producto>botellin del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>22€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>5</numero>
+        <nombre>Iván</nombre>
+        <apellido>Gomez</apellido>
+        <telefono>638989855</telefono>
+        <direccion>
+            <calle>calle de alicante</calle>
+            <ciudad>Arroyomolinos</ciudad>
+            <codigo_postal>28019</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>I.gomez@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>15/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>05</id_pedido>
+            <fecha_compra>28/02/2021</fecha_compra>
+            <fecha_entrega>1/03/2021</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+
+    <pedido>
+        <numero>6</numero>
+        <nombre>Iván</nombre>
+        <apellido>Gomez</apellido>
+        <telefono>638989855</telefono>
+        <direccion>
+            <calle>calle de alicante</calle>
+            <ciudad>Arroyomolinos</ciudad>
+            <codigo_postal>28019</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>I.gomez@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>15/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>06</id_pedido>
+            <fecha_compra>26/02/2021</fecha_compra>
+            <fecha_entrega>28/02/2021</fecha_entrega>
+            <total_factura>22€</total_factura>
+            <producto>
+                <nombre_producto>botellin del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>22€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>7</numero>
+        <nombre>Iván</nombre>
+        <apellido>Encinas</apellido>
+        <telefono>638563555</telefono>
+        <direccion>
+            <calle>AV Europa</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>I.encinas@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>09/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>07</id_pedido>
+            <fecha_compra>25/02/2021</fecha_compra>
+            <fecha_entrega>28/02/2021</fecha_entrega>
+            <total_factura>16€</total_factura>
+            <producto>
+                <nombre_producto>bufanda del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>16€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>8</numero>
+        <nombre>Iván</nombre>
+        <apellido>Gonzalez</apellido>
+        <telefono>638983765</telefono>
+        <direccion>
+            <calle>Calle clara janés</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>I.gonzalez@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>06/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>08</id_pedido>
+            <fecha_compra>20/02/2021</fecha_compra>
+            <fecha_entrega>22/02/2021</fecha_entrega>
+            <total_factura>64€</total_factura>
+            <producto>
+                <nombre_producto>Sudadera entrenamiento barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>64€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>9</numero>
+        <nombre>Mauro</nombre>
+        <apellido>Ortiz</apellido>
+        <telefono>612679823</telefono>
+        <direccion>
+            <calle>Calle maria moliner</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>M.ortiz@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>05/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>09</id_pedido>
+            <fecha_compra>19/02/2021</fecha_compra>
+            <fecha_entrega>28/02/2021</fecha_entrega>
+            <total_factura>104€</total_factura>
+            <producto>
+                <nombre_producto>Camiseta 1º Equipacion Barsa Europa</nombre_producto>
+                <referencia>01</referencia>
+                <precio>104€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>10</numero>
+        <nombre>Miriam</nombre>
+        <apellido>villar</apellido>
+        <telefono>636089978</telefono>
+        <direccion>
+            <calle>Avenida María Moliner</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>M.villar@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>02/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>1</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>10</id_pedido>
+            <fecha_compra>28/02/2021</fecha_compra>
+            <fecha_entrega>1/03/2021</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+
+
+    <pedido>
+        <numero>11</numero>
+        <nombre>Daniel</nombre>
+        <apellido>Martin</apellido>
+        <telefono>648484845</telefono>
+        <direccion>
+            <calle>calle la rioja</calle>
+            <ciudad>Arroyomolinos</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>D.martin@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>11</id_pedido>
+            <fecha_compra>01/04/2021</fecha_compra>
+            <fecha_entrega>03/04/2021</fecha_entrega>
+            <total_factura>29€</total_factura>
+            <producto>
+                <nombre_producto>mochila del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>29€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>12</numero>
+        <nombre>Ruben</nombre>
+        <apellido>martinez</apellido>
+        <telefono>631919115</telefono>
+        <direccion>
+            <calle>AV Juan Carlos I</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>R.martinez@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>25/04/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>12</id_pedido>
+            <fecha_compra>10/04/2021</fecha_compra>
+            <fecha_entrega>13/04/2021</fecha_entrega>
+            <total_factura>49€</total_factura>
+            <producto>
+                <nombre_producto>camiseta de cruyff</nombre_producto>
+                <referencia>01</referencia>
+                <precio>49€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>13</numero>
+        <nombre>Diego</nombre>
+        <apellido>Rodrigues</apellido>
+        <telefono>677977855</telefono>
+        <direccion>
+            <calle>calle de barcelona</calle>
+            <ciudad>Úbeda</ciudad>
+            <codigo_postal>23015</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>D.rodrigues@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>01/05/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>13</id_pedido>
+            <fecha_compra>15/05/2021</fecha_compra>
+            <fecha_entrega>16/05/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>cuarta equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>14</numero>
+        <nombre>Diego</nombre>
+        <apellido>García</apellido>
+        <telefono>670900855</telefono>
+        <direccion>
+            <calle>calle de jaen</calle>
+            <ciudad>Baeza</ciudad>
+            <codigo_postal>23018</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>D.garcia@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>12/05/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>14</id_pedido>
+            <fecha_compra>16/05/2021</fecha_compra>
+            <fecha_entrega>17/05/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion de la liga del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>15</numero>
+        <nombre>Alejando</nombre>
+        <apellido>García</apellido>
+        <telefono>690909855</telefono>
+        <direccion>
+            <calle>calle de tarragona</calle>
+            <ciudad>Sabiote</ciudad>
+            <codigo_postal>23017</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>A.garcia@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/05/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>15</id_pedido>
+            <fecha_compra>18/05/2021</fecha_compra>
+            <fecha_entrega>19/05/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>16</numero>
+        <nombre>Diego</nombre>
+        <apellido>García</apellido>
+        <telefono>670900855</telefono>
+        <direccion>
+            <calle>calle de jaen</calle>
+            <ciudad>Baeza</ciudad>
+            <codigo_postal>23018</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>D.garcia@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/06/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>16</id_pedido>
+            <fecha_compra>21/06/2021</fecha_compra>
+            <fecha_entrega>22/06/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>17</numero>
+        <nombre>Alejando</nombre>
+        <apellido>García</apellido>
+        <telefono>690909855</telefono>
+        <direccion>
+            <calle>calle de tarragona</calle>
+            <ciudad>Sabiote</ciudad>
+            <codigo_postal>23017</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>A.garcia@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/05/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>17</id_pedido>
+            <fecha_compra>22/05/2021</fecha_compra>
+            <fecha_entrega>23/05/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion de la liga del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>18</numero>
+        <nombre>Diego</nombre>
+        <apellido>Rodrigues</apellido>
+        <telefono>677977855</telefono>
+        <direccion>
+            <calle>calle de barcelona</calle>
+            <ciudad>Úbeda</ciudad>
+            <codigo_postal>23015</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>D.rodrigues@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>01/05/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>18</id_pedido>
+            <fecha_compra>22/05/2021</fecha_compra>
+            <fecha_entrega>23/05/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion de la liga del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>19</numero>
+        <nombre>Ruben</nombre>
+        <apellido>martinez</apellido>
+        <telefono>631919115</telefono>
+        <direccion>
+            <calle>AV Juan Carlos I</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>R.martinez@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>25/04/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>19</id_pedido>
+            <fecha_compra>21/06/2021</fecha_compra>
+            <fecha_entrega>22/06/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>20</numero>
+        <nombre>Daniel</nombre>
+        <apellido>Martin</apellido>
+        <telefono>648484845</telefono>
+        <direccion>
+            <calle>calle la rioja</calle>
+            <ciudad>Arroyomolinos</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>D.martin@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/01/2021</fecha>
+            <año>2021</año>
+            <trimestre>2</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>20</id_pedido>
+            <fecha_compra>21/06/2021</fecha_compra>
+            <fecha_entrega>22/06/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>21</numero>
+        <nombre>Marie-josée</nombre>
+        <apellido>Longcake</apellido>
+        <telefono>818-32-2017</telefono>
+        <direccion>
+            <calle>Browning</calle>
+            <ciudad>Yanggu</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>mlongcakea@newsvine.com</email>
+        <fecha_inclusion>
+            <fecha>12/07/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>21</id_pedido>
+            <fecha_compra>16/07/2021</fecha_compra>
+            <fecha_entrega>17/07/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion de la liga del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>22</numero>
+        <nombre>Marlène</nombre>
+        <apellido>Kilduff</apellido>
+        <telefono>236-67-5525</telefono>
+        <direccion>
+            <calle>Macpherson</calle>
+            <ciudad>Manogay</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>akilduffb@dailymail.co.uk</email>
+        <fecha_inclusion>
+            <fecha>17/06/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>22</id_pedido>
+            <fecha_compra>18/07/2021</fecha_compra>
+            <fecha_entrega>19/07/2021</fecha_entrega>
+            <total_factura>49€</total_factura>
+            <producto>
+                <nombre_producto>camiseta de cruyff</nombre_producto>
+                <referencia>01</referencia>
+                <precio>49€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>23</numero>
+        <nombre>Camélia</nombre>
+        <apellido>Denys</apellido>
+        <telefono>367-05-3280</telefono>
+        <direccion>
+            <calle>Mayer</calle>
+            <ciudad>Concepción</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>cdenysc@arizona.edu</email>
+        <fecha_inclusion>
+            <fecha>24/06/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>23</id_pedido>
+            <fecha_compra>26/07/2021</fecha_compra>
+            <fecha_entrega>28/07/2021</fecha_entrega>
+            <total_factura>49€</total_factura>
+            <producto>
+                <nombre_producto>camiseta de cruyff</nombre_producto>
+                <referencia>01</referencia>
+                <precio>49€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>24</numero>
+        <nombre>Marlène</nombre>
+        <apellido>Rabson</apellido>
+        <telefono>572-60-4475</telefono>
+        <direccion>
+            <calle>West</calle>
+            <ciudad>Laboulaye</ciudad>
+            <codigo_postal>5120</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>rrabsond@irs.gov</email>
+        <fecha_inclusion>
+            <fecha>01/07/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>24</id_pedido>
+            <fecha_compra>10/07/2021</fecha_compra>
+            <fecha_entrega>11/07/2021</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>25</numero>
+        <nombre>Lucrèce</nombre>
+        <apellido>Kulic</apellido>
+        <telefono>837-04-6883</telefono>
+        <direccion>
+            <calle>Mallory</calle>
+            <ciudad>Xiaomiaozi</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>skulice@ebay.co.uk</email>
+        <fecha_inclusion>
+            <fecha>07/07/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>25</id_pedido>
+            <fecha_compra>10/07/2021</fecha_compra>
+            <fecha_entrega>11/07/2021</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+
+    <pedido>
+        <numero>26</numero>
+        <nombre>Marie-josée</nombre>
+        <apellido>Longcake</apellido>
+        <telefono>818-32-2017</telefono>
+        <direccion>
+            <calle>Browning</calle>
+            <ciudad>Yanggu</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>mlongcakea@newsvine.com</email>
+        <fecha_inclusion>
+            <fecha>12/07/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>26</id_pedido>
+            <fecha_compra>20/07/2021</fecha_compra>
+            <fecha_entrega>21/07/2021</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>27</numero>
+        <nombre>Marlène</nombre>
+        <apellido>Kilduff</apellido>
+        <telefono>236-67-5525</telefono>
+        <direccion>
+            <calle>Macpherson</calle>
+            <ciudad>Manogay</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>akilduffb@dailymail.co.uk</email>
+        <fecha_inclusion>
+            <fecha>17/06/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>27</id_pedido>
+            <fecha_compra>29/07/2021</fecha_compra>
+            <fecha_entrega>01/08/2021</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>28</numero>
+        <nombre>Camélia</nombre>
+        <apellido>Denys</apellido>
+        <telefono>367-05-3280</telefono>
+        <direccion>
+            <calle>Mayer</calle>
+            <ciudad>Concepción</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>cdenysc@arizona.edu</email>
+        <fecha_inclusion>
+            <fecha>24/06/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>28</id_pedido>
+            <fecha_compra>29/07/2021</fecha_compra>
+            <fecha_entrega>01/08/2021</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>29</numero>
+        <nombre>Marlène</nombre>
+        <apellido>Rabson</apellido>
+        <telefono>572-60-4475</telefono>
+        <direccion>
+            <calle>West</calle>
+            <ciudad>Laboulaye</ciudad>
+            <codigo_postal>5120</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>rrabsond@irs.gov</email>
+        <fecha_inclusion>
+            <fecha>01/07/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>29</id_pedido>
+            <fecha_compra>09/08/2021</fecha_compra>
+            <fecha_entrega>11/08/2021</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>30</numero>
+        <nombre>Lucrèce</nombre>
+        <apellido>Kulic</apellido>
+        <telefono>837-04-6883</telefono>
+        <direccion>
+            <calle>Mallory</calle>
+            <ciudad>Xiaomiaozi</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>skulice@ebay.co.uk</email>
+        <fecha_inclusion>
+            <fecha>07/07/2021</fecha>
+            <año>2021</año>
+            <trimestre>3</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>30</id_pedido>
+            <fecha_compra>29/08/2021</fecha_compra>
+            <fecha_entrega>31/08/2021</fecha_entrega>
+            <total_factura>104€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>104€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>31</numero>
+        <nombre>Marie-josée</nombre>
+        <apellido>Napolitano</apellido>
+        <telefono>525-02-0141</telefono>
+        <direccion>
+            <calle>Schurz</calle>
+            <ciudad>Khovd</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>snapolitano9@wiley.com</email>
+        <fecha_inclusion>
+            <fecha>15/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>31</id_pedido>
+            <fecha_compra>18/10/2021</fecha_compra>
+            <fecha_entrega>19/10/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>32</numero>
+        <nombre>Pò</nombre>
+        <apellido>Raggitt</apellido>
+        <telefono>340-69-6663</telefono>
+        <direccion>
+            <calle>Washington</calle>
+            <ciudad>Paço</ciudad>
+            <codigo_postal>4910-060</codigo_postal>
+            <provincia>Viana do Castelo</provincia>
+        </direccion>
+        <email>qraggittk@squidoo.com</email>
+        <fecha_inclusion>
+            <fecha>21/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>32</id_pedido>
+            <fecha_compra>21/10/2021</fecha_compra>
+            <fecha_entrega>23/10/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>33</numero>
+        <nombre>Mélinda</nombre>
+        <apellido>Dunnan</apellido>
+        <telefono>350-74-4005</telefono>
+        <direccion>
+            <calle>Kedzie</calle>
+            <ciudad>Niafunké</ciudad>
+            <codigo_postal>20546</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>pdunnanl@ed.gov</email>
+        <fecha_inclusion>
+            <fecha>14/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>33</id_pedido>
+            <fecha_compra>18/10/2021</fecha_compra>
+            <fecha_entrega>19/10/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>34</numero>
+        <nombre>Kuí</nombre>
+        <apellido>Goggins</apellido>
+        <telefono>243-90-9140</telefono>
+        <direccion>
+            <calle>Haas</calle>
+            <ciudad>Washington</ciudad>
+            <codigo_postal>20546</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>egogginsm@netlog.com</email>
+        <fecha_inclusion>
+            <fecha>24/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>34</id_pedido>
+            <fecha_compra>29/10/2021</fecha_compra>
+            <fecha_entrega>01/11/2021</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>35</numero>
+        <nombre>Stéphanie</nombre>
+        <apellido>Oliver</apellido>
+        <telefono>642-31-9557</telefono>
+        <direccion>
+            <calle>Crescent Oaks</calle>
+            <ciudad>Piñahan</ciudad>
+            <codigo_postal>1100</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>colivern@gnu.org</email>
+        <fecha_inclusion>
+            <fecha>14/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>35</id_pedido>
+            <fecha_compra>19/10/2021</fecha_compra>
+            <fecha_entrega>21/10/2021</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>36</numero>
+        <nombre>Marie-josée</nombre>
+        <apellido>Napolitano</apellido>
+        <telefono>525-02-0141</telefono>
+        <direccion>
+            <calle>Schurz</calle>
+            <ciudad>Khovd</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>snapolitano9@wiley.com</email>
+        <fecha_inclusion>
+            <fecha>20/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>36</id_pedido>
+            <fecha_compra>21/10/2021</fecha_compra>
+            <fecha_entrega>23/10/2021</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>37</numero>
+        <nombre>Pò</nombre>
+        <apellido>Raggitt</apellido>
+        <telefono>340-69-6663</telefono>
+        <direccion>
+            <calle>Washington</calle>
+            <ciudad>Paço</ciudad>
+            <codigo_postal>4910-060</codigo_postal>
+            <provincia>Viana do Castelo</provincia>
+        </direccion>
+        <email>qraggittk@squidoo.com</email>
+        <fecha_inclusion>
+            <fecha>21/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>37</id_pedido>
+            <fecha_compra>22/10/2021</fecha_compra>
+            <fecha_entrega>24/10/2021</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>38</numero>
+        <nombre>Mélinda</nombre>
+        <apellido>Dunnan</apellido>
+        <telefono>350-74-4005</telefono>
+        <direccion>
+            <calle>Kedzie</calle>
+            <ciudad>Niafunké</ciudad>
+            <codigo_postal>20546</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>pdunnanl@ed.gov</email>
+        <fecha_inclusion>
+            <fecha>20/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>38</id_pedido>
+            <fecha_compra>07/11/2021</fecha_compra>
+            <fecha_entrega>10/11/2021</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>39</numero>
+        <nombre>Kuí</nombre>
+        <apellido>Goggins</apellido>
+        <telefono>243-90-9140</telefono>
+        <direccion>
+            <calle>Haas</calle>
+            <ciudad>Washington</ciudad>
+            <codigo_postal>20546</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>egogginsm@netlog.com</email>
+        <fecha_inclusion>
+            <fecha>24/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>33</id_pedido>
+            <fecha_compra>25/10/2021</fecha_compra>
+            <fecha_entrega>26/10/2021</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>40</numero>
+        <nombre>Stéphanie</nombre>
+        <apellido>Oliver</apellido>
+        <telefono>642-31-9557</telefono>
+        <direccion>
+            <calle>Crescent Oaks</calle>
+            <ciudad>Piñahan</ciudad>
+            <codigo_postal>1100</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>colivern@gnu.org</email>
+        <fecha_inclusion>
+            <fecha>14/10/2021</fecha>
+            <año>2021</año>
+            <trimestre>4</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>40</id_pedido>
+            <fecha_compra>10/11/2021</fecha_compra>
+            <fecha_entrega>11/11/2021</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+
+    <pedido>
+        <numero>41</numero>
+        <nombre>Sélène</nombre>
+        <apellido>Hedge</apellido>
+        <telefono>857-45-4738</telefono>
+        <direccion>
+            <calle>Nova</calle>
+            <ciudad>Kitcharao</ciudad>
+            <codigo_postal>8609</codigo_postal>
+            <provincia>Mostoles</provincia>
+        </direccion>
+        <email>mhedge0@naver.com</email>
+        <fecha_inclusion>
+            <fecha>02/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>41</id_pedido>
+            <fecha_compra>19/02/2022</fecha_compra>
+            <fecha_entrega>28/02/2022</fecha_entrega>
+            <total_factura>104€</total_factura>
+            <producto>
+                <nombre_producto>Camiseta 1º Equipacion Barsa Europa</nombre_producto>
+                <referencia>01</referencia>
+                <precio>104€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>42</numero>
+        <nombre>Noémie</nombre>
+        <apellido>Mc Corley</apellido>
+        <telefono>112-66-9783</telefono>
+        <direccion>
+            <calle>Dawn</calle>
+            <ciudad>Erdao</ciudad>
+            <codigo_postal>45896</codigo_postal>
+            <provincia>alcrocon</provincia>
+        </direccion>
+        <email>emccorley0@constantcontact.com</email>
+        <fecha_inclusion>
+            <fecha>05/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>42</id_pedido>
+            <fecha_compra>20/02/2022</fecha_compra>
+            <fecha_entrega>22/02/2022</fecha_entrega>
+            <total_factura>64€</total_factura>
+            <producto>
+                <nombre_producto>Sudadera entrenamiento barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>64€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>43</numero>
+        <nombre>Pénélope</nombre>
+        <apellido>Creeber</apellido>
+        <telefono>588-91-5269</telefono>
+        <direccion>
+            <calle>Dorton</calle>
+            <ciudad>Bueng Samakkhi</ciudad>
+            <codigo_postal>34350</codigo_postal>
+            <provincia>Jaen</provincia>
+        </direccion>
+        <email>tcreeber0@blogs.com</email>
+        <fecha_inclusion>
+            <fecha>06/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>43</id_pedido>
+            <fecha_compra>25/02/2022</fecha_compra>
+            <fecha_entrega>28/02/2022</fecha_entrega>
+            <total_factura>16€</total_factura>
+            <producto>
+                <nombre_producto>bufanda del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>16€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>44</numero>
+        <nombre>Cécile</nombre>
+        <apellido>Whitta</apellido>
+        <telefono>546-53-6825</telefono>
+        <direccion>
+            <calle>Harper</calle>
+            <ciudad>Sevilla</ciudad>
+            <codigo_postal>41020</codigo_postal>
+            <provincia>jaen</provincia>
+        </direccion>
+        <email>mwhitta0@amazon.de</email>
+        <fecha_inclusion>
+            <fecha>09/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>44</id_pedido>
+            <fecha_compra>26/02/2022</fecha_compra>
+            <fecha_entrega>28/02/2022</fecha_entrega>
+            <total_factura>22€</total_factura>
+            <producto>
+                <nombre_producto>botellin del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>22€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>45</numero>
+        <nombre>Iván</nombre>
+        <apellido>villar</apellido>
+        <telefono>638439855</telefono>
+        <direccion>
+            <calle>calle de españa</calle>
+            <ciudad>Arroyomolinos</ciudad>
+            <codigo_postal>28019</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>I.villar@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>15/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>45</id_pedido>
+            <fecha_compra>28/02/2022</fecha_compra>
+            <fecha_entrega>1/03/2022</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+
+    <pedido>
+        <numero>46</numero>
+        <nombre>Iván</nombre>
+        <apellido>villar</apellido>
+        <telefono>638439855</telefono>
+        <direccion>
+            <calle>calle de españa</calle>
+            <ciudad>Arroyomolinos</ciudad>
+            <codigo_postal>28019</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>I.villar@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>15/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>46</id_pedido>
+            <fecha_compra>26/02/2022</fecha_compra>
+            <fecha_entrega>28/02/2022</fecha_entrega>
+            <total_factura>22€</total_factura>
+            <producto>
+                <nombre_producto>botellin del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>22€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>47</numero>
+        <nombre>Cécile</nombre>
+        <apellido>Whitta</apellido>
+        <telefono>546-53-6825</telefono>
+        <direccion>
+            <calle>Harper</calle>
+            <ciudad>Sevilla</ciudad>
+            <codigo_postal>41020</codigo_postal>
+            <provincia>jaen</provincia>
+        </direccion>
+        <email>mwhitta0@amazon.de</email>
+        <fecha_inclusion>
+            <fecha>09/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>47</id_pedido>
+            <fecha_compra>25/02/2022</fecha_compra>
+            <fecha_entrega>28/02/2022</fecha_entrega>
+            <total_factura>16€</total_factura>
+            <producto>
+                <nombre_producto>bufanda del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>16€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>48</numero>
+        <nombre>Pénélope</nombre>
+        <apellido>Creeber</apellido>
+        <telefono>588-91-5269</telefono>
+        <direccion>
+            <calle>Dorton</calle>
+            <ciudad>Bueng Samakkhi</ciudad>
+            <codigo_postal>34350</codigo_postal>
+            <provincia>manchester</provincia> 
+        </direccion>
+        <email>tcreeber0@blogs.com</email>
+        <fecha_inclusion>
+            <fecha>06/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>48</id_pedido>
+            <fecha_compra>20/02/2022</fecha_compra>
+            <fecha_entrega>22/02/2022</fecha_entrega>
+            <total_factura>64€</total_factura>
+            <producto>
+                <nombre_producto>Sudadera entrenamiento barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>64€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>49</numero>
+        <nombre>Noémie</nombre>
+        <apellido>Mc Corley</apellido>
+        <telefono>112-66-9783</telefono>
+        <direccion>
+            <calle>Dawn</calle>
+            <ciudad>Erdao</ciudad>
+            <codigo_postal>45896</codigo_postal>
+            <provincia>alcrocon</provincia>
+        </direccion>
+        <email>emccorley0@constantcontact.com</email>
+        <fecha_inclusion>
+            <fecha>05/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>49</id_pedido>
+            <fecha_compra>19/02/2022</fecha_compra>
+            <fecha_entrega>28/02/2022</fecha_entrega>
+            <total_factura>104€</total_factura>
+            <producto>
+                <nombre_producto>Camiseta 1º Equipacion Barsa Europa</nombre_producto>
+                <referencia>01</referencia>
+                <precio>104€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>50</numero>
+        <nombre>Sélène</nombre>
+        <apellido>Hedge</apellido>
+        <telefono>857-45-4738</telefono>
+        <direccion>
+            <calle>Nova</calle>
+            <ciudad>Kitcharao</ciudad>
+            <codigo_postal>8609</codigo_postal>
+            <provincia>Mostoles</provincia>
+        </direccion>
+        <email>mhedge0@naver.com</email>
+        <fecha_inclusion>
+            <fecha>02/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>5</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>50</id_pedido>
+            <fecha_compra>28/02/2022</fecha_compra>
+            <fecha_entrega>1/03/2022</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+
+    <pedido>
+        <numero>51</numero>
+        <nombre>pablo</nombre>
+        <apellido>Martin</apellido>
+        <telefono>648234845</telefono>
+        <direccion>
+            <calle>calle de venecia</calle>
+            <ciudad>Arroyomolinos</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>P.martin@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/01/2022</fecha>
+            <año>2022</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>51</id_pedido>
+            <fecha_compra>01/04/2022</fecha_compra>
+            <fecha_entrega>03/04/2022</fecha_entrega>
+            <total_factura>29€</total_factura>
+            <producto>
+                <nombre_producto>mochila del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>29€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>52</numero>
+        <nombre>alvaro</nombre>
+        <apellido>martinez</apellido>
+        <telefono>631919115</telefono>
+        <direccion>
+            <calle>AV Juan Carlos I</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>R.martinez@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>25/04/2022</fecha>
+            <año>2022</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>52</id_pedido>
+            <fecha_compra>10/04/2022</fecha_compra>
+            <fecha_entrega>13/04/2022</fecha_entrega>
+            <total_factura>49€</total_factura>
+            <producto>
+                <nombre_producto>camiseta de cruyff</nombre_producto>
+                <referencia>01</referencia>
+                <precio>49€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>53</numero>
+        <nombre>Pedro</nombre>
+        <apellido>Rodrigues</apellido>
+        <telefono>677977855</telefono>
+        <direccion>
+            <calle>calle de barcelona</calle>
+            <ciudad>Úbeda</ciudad>
+            <codigo_postal>23015</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>D.rodrigues@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>01/05/2022</fecha>
+            <año>2022</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>53</id_pedido>
+            <fecha_compra>15/05/2022</fecha_compra>
+            <fecha_entrega>16/05/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>cuarta equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>54</numero>
+        <nombre>Victor</nombre>
+        <apellido>García</apellido>
+        <telefono>670560855</telefono>
+        <direccion>
+            <calle>calle de malaga</calle>
+            <ciudad>Baeza</ciudad>
+            <codigo_postal>23018</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>V.garcia@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>12/05/2022</fecha>
+            <año>2022</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>54</id_pedido>
+            <fecha_compra>16/05/2022</fecha_compra>
+            <fecha_entrega>17/05/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion de la liga del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>55</numero>
+        <nombre>Hugo</nombre>
+        <apellido>García</apellido>
+        <telefono>696709855</telefono>
+        <direccion>
+            <calle>calle de lleida</calle>
+            <ciudad>Sabiote</ciudad>
+            <codigo_postal>23017</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>H.garcia@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/05/2022</fecha>
+            <año>2022</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>55</id_pedido>
+            <fecha_compra>18/05/2022</fecha_compra>
+            <fecha_entrega>19/05/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>56</numero>
+        <nombre>pablo</nombre>
+        <apellido>Martin</apellido>
+        <telefono>648234845</telefono>
+        <direccion>
+            <calle>calle de venecia</calle>
+            <ciudad>Arroyomolinos</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>P.martin@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/06/2022</fecha>
+            <año>2022</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>56</id_pedido>
+            <fecha_compra>21/06/2022</fecha_compra>
+            <fecha_entrega>22/06/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>57</numero>
+        <nombre>alvaro</nombre>
+        <apellido>martinez</apellido>
+        <telefono>631919115</telefono>
+        <direccion>
+            <calle>AV Juan Carlos I</calle>
+            <ciudad>Leganés</ciudad>
+            <codigo_postal>28919</codigo_postal>
+            <provincia>Madrid</provincia>
+        </direccion>
+        <email>R.martinez@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/05/2022</fecha>
+            <año>2022</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>57</id_pedido>
+            <fecha_compra>22/05/2022</fecha_compra>
+            <fecha_entrega>23/05/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion de la liga del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>58</numero>
+        <nombre>Pedro</nombre>
+        <apellido>Rodrigues</apellido>
+        <telefono>677977855</telefono>
+        <direccion>
+            <calle>calle de barcelona</calle>
+            <ciudad>Úbeda</ciudad>
+            <codigo_postal>23015</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>D.rodrigues@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>01/05/2022</fecha>
+            <año>2022</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>58</id_pedido>
+            <fecha_compra>22/05/2022</fecha_compra>
+            <fecha_entrega>23/05/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion de la liga del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>19</numero>
+        <nombre>Victor</nombre>
+        <apellido>García</apellido>
+        <telefono>670560855</telefono>
+        <direccion>
+            <calle>calle de malaga</calle>
+            <ciudad>Baeza</ciudad>
+            <codigo_postal>23018</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>V.garcia@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>25/04/2022</fecha>
+            <año>2022</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>59</id_pedido>
+            <fecha_compra>21/06/2022</fecha_compra>
+            <fecha_entrega>22/06/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>60</numero>
+        <nombre>Hugo</nombre>
+        <apellido>García</apellido>
+        <telefono>696709855</telefono>
+        <direccion>
+            <calle>calle de lleida</calle>
+            <ciudad>Sabiote</ciudad>
+            <codigo_postal>23017</codigo_postal>
+            <provincia>Jaén</provincia>
+        </direccion>
+        <email>H.garcia@gmail.com</email>
+        <fecha_inclusion>
+            <fecha>20/01/2022</fecha>
+            <año>2021</año>
+            <trimestre>6</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>60</id_pedido>
+            <fecha_compra>21/06/2022</fecha_compra>
+            <fecha_entrega>22/06/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>61</numero>
+        <nombre>Marie</nombre>
+        <apellido>Longcake</apellido>
+        <telefono>818-52-2017</telefono>
+        <direccion>
+            <calle>alaska</calle>
+            <ciudad>Yanggu</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>mlongea@newsvine.com</email>
+        <fecha_inclusion>
+            <fecha>12/07/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>61</id_pedido>
+            <fecha_compra>16/07/2022</fecha_compra>
+            <fecha_entrega>17/07/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion de la liga del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>62</numero>
+        <nombre>Maria</nombre>
+        <apellido>Kilduff</apellido>
+        <telefono>236-98-5525</telefono>
+        <direccion>
+            <calle>london</calle>
+            <ciudad>Manogay</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>akisfffb@dailymail.co.uk</email>
+        <fecha_inclusion>
+            <fecha>17/06/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>62</id_pedido>
+            <fecha_compra>18/07/2022</fecha_compra>
+            <fecha_entrega>19/07/2022</fecha_entrega>
+            <total_factura>49€</total_factura>
+            <producto>
+                <nombre_producto>camiseta de cruyff</nombre_producto>
+                <referencia>01</referencia>
+                <precio>49€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>63</numero>
+        <nombre>Carmelo</nombre>
+        <apellido>Denys</apellido>
+        <telefono>367-75-3280</telefono>
+        <direccion>
+            <calle>Auth</calle>
+            <ciudad>Concepción</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>cmodenysc@arizona.edu</email>
+        <fecha_inclusion>
+            <fecha>24/06/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>63</id_pedido>
+            <fecha_compra>26/07/2022</fecha_compra>
+            <fecha_entrega>28/07/2022</fecha_entrega>
+            <total_factura>49€</total_factura>
+            <producto>
+                <nombre_producto>camiseta de cruyff</nombre_producto>
+                <referencia>01</referencia>
+                <precio>49€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>64</numero>
+        <nombre>Robinson</nombre>
+        <apellido>Rabson</apellido>
+        <telefono>572-87-4475</telefono>
+        <direccion>
+            <calle>queen</calle>
+            <ciudad>Laboulaye</ciudad>
+            <codigo_postal>5120</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>robinrabsond@irs.gov</email>
+        <fecha_inclusion>
+            <fecha>01/07/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>64</id_pedido>
+            <fecha_compra>10/07/2022</fecha_compra>
+            <fecha_entrega>11/07/2022</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>65</numero>
+        <nombre>Lucrecio</nombre>
+        <apellido>Kulic</apellido>
+        <telefono>837-12-6883</telefono>
+        <direccion>
+            <calle>city</calle>
+            <ciudad>Xiaomiaozi</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>lkulice@ebay.co.uk</email>
+        <fecha_inclusion>
+            <fecha>07/07/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>65</id_pedido>
+            <fecha_compra>10/07/2022</fecha_compra>
+            <fecha_entrega>11/07/2022</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+
+    <pedido>
+        <numero>66</numero>
+        <nombre>Marie</nombre>
+        <apellido>Longcake</apellido>
+        <telefono>818-52-2017</telefono>
+        <direccion>
+            <calle>alaska</calle>
+            <ciudad>Yanggu</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>mlongea@newsvine.com</email>
+        <fecha_inclusion>
+            <fecha>12/07/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>66</id_pedido>
+            <fecha_compra>20/07/2022</fecha_compra>
+            <fecha_entrega>21/07/2022</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>67</numero>
+        <nombre>Maria</nombre>
+        <apellido>Kilduff</apellido>
+        <telefono>236-98-5525</telefono>
+        <direccion>
+            <calle>london</calle>
+            <ciudad>Manogay</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>akisfffb@dailymail.co.uk</email>
+        <fecha_inclusion>
+            <fecha>17/06/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>67</id_pedido>
+            <fecha_compra>29/07/2022</fecha_compra>
+            <fecha_entrega>01/08/2022</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>68</numero>
+        <nombre>Carmelo</nombre>
+        <apellido>Denys</apellido>
+        <telefono>367-75-3280</telefono>
+        <direccion>
+            <calle>Auth</calle>
+            <ciudad>Concepción</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>cmodenysc@arizona.edu</email>
+        <fecha_inclusion>
+            <fecha>24/06/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>68</id_pedido>
+            <fecha_compra>29/07/2022</fecha_compra>
+            <fecha_entrega>01/08/2022</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>69</numero>
+        <nombre>Robinson</nombre>
+        <apellido>Rabson</apellido>
+        <telefono>572-87-4475</telefono>
+        <direccion>
+            <calle>queen</calle>
+            <ciudad>Laboulaye</ciudad>
+            <codigo_postal>5120</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>robinrabsond@irs.gov</email>
+        <fecha_inclusion>
+            <fecha>01/07/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>69</id_pedido>
+            <fecha_compra>09/08/2022</fecha_compra>
+            <fecha_entrega>11/08/2022</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+    <pedido>
+        <numero>70</numero>
+        <nombre>Lucrecio</nombre>
+        <apellido>Kulic</apellido>
+        <telefono>837-12-6883</telefono>
+        <direccion>
+            <calle>city</calle>
+            <ciudad>Xiaomiaozi</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>lkulice@ebay.co.uk</email>
+        <fecha_inclusion>
+            <fecha>07/07/2022</fecha>
+            <año>2022</año>
+            <trimestre>7</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>70</id_pedido>
+            <fecha_compra>29/08/2022</fecha_compra>
+            <fecha_entrega>31/08/2022</fecha_entrega>
+            <total_factura>104€</total_factura>
+            <producto>
+                <nombre_producto>primera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>104€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>71</numero>
+        <nombre>josée</nombre>
+        <apellido>Napolitano</apellido>
+        <telefono>525-02-0171</telefono>
+        <direccion>
+            <calle>Alemania</calle>
+            <ciudad>Khovd</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>Jnapolitano9@wiley.com</email>
+        <fecha_inclusion>
+            <fecha>15/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>71</id_pedido>
+            <fecha_compra>18/10/2022</fecha_compra>
+            <fecha_entrega>19/10/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>72</numero>
+        <nombre>astilla</nombre>
+        <apellido>Raggitt</apellido>
+        <telefono>340-67-6663</telefono>
+        <direccion>
+            <calle>Washington</calle>
+            <ciudad>Paço</ciudad>
+            <codigo_postal>4910-060</codigo_postal>
+            <provincia>Viana do Castelo</provincia>
+        </direccion>
+        <email>Araggittk@squidoo.com</email>
+        <fecha_inclusion>
+            <fecha>21/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>72</id_pedido>
+            <fecha_compra>21/10/2022</fecha_compra>
+            <fecha_entrega>23/10/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>73</numero>
+        <nombre>matilda</nombre>
+        <apellido>Dunnan</apellido>
+        <telefono>350-56-4005</telefono>
+        <direccion>
+            <calle>pila</calle>
+            <ciudad>Niafunké</ciudad>
+            <codigo_postal>20546</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>Mpdunnanl@ed.gov</email>
+        <fecha_inclusion>
+            <fecha>14/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>73</id_pedido>
+            <fecha_compra>18/10/2022</fecha_compra>
+            <fecha_entrega>19/10/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>74</numero>
+        <nombre>kolo</nombre>
+        <apellido>Goggins</apellido>
+        <telefono>243-34-9140</telefono>
+        <direccion>
+            <calle>ferrari</calle>
+            <ciudad>Washington</ciudad>
+            <codigo_postal>20546</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>egogginsm@netlog.com</email>
+        <fecha_inclusion>
+            <fecha>24/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>74</id_pedido>
+            <fecha_compra>29/10/2022</fecha_compra>
+            <fecha_entrega>01/11/2022</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>75</numero>
+        <nombre>Stéphanie</nombre>
+        <apellido>Oliver</apellido>
+        <telefono>642-31-9557</telefono>
+        <direccion>
+            <calle>Crescent Oaks</calle>
+            <ciudad>Piñahan</ciudad>
+            <codigo_postal>1100</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>colivern@gnu.org</email>
+        <fecha_inclusion>
+            <fecha>14/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>75</id_pedido>
+            <fecha_compra>19/10/2022</fecha_compra>
+            <fecha_entrega>21/10/2022</fecha_entrega>
+            <total_factura>89€</total_factura>
+            <producto>
+                <nombre_producto>tercera equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>89€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+    
+
+
+    <pedido>
+        <numero>76</numero>
+        <nombre>josée</nombre>
+        <apellido>Napolitano</apellido>
+        <telefono>525-02-0171</telefono>
+        <direccion>
+            <calle>Alemania</calle>
+            <ciudad>Khovd</ciudad>
+            <codigo_postal>28805</codigo_postal>
+            <provincia>North Carolina</provincia>
+        </direccion>
+        <email>Jnapolitano9@wiley.com</email>
+        <fecha_inclusion>
+            <fecha>15/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>76</id_pedido>
+            <fecha_compra>21/10/2022</fecha_compra>
+            <fecha_entrega>23/10/2022</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>77</numero>
+        <nombre>astilla</nombre>
+        <apellido>Raggitt</apellido>
+        <telefono>340-67-6663</telefono>
+        <direccion>
+            <calle>Washington</calle>
+            <ciudad>Paço</ciudad>
+            <codigo_postal>4910-060</codigo_postal>
+            <provincia>Viana do Castelo</provincia>
+        </direccion>
+        <email>Araggittk@squidoo.com</email>
+        <fecha_inclusion>
+            <fecha>21/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>77</id_pedido>
+            <fecha_compra>22/10/2022</fecha_compra>
+            <fecha_entrega>24/10/2022</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>78</numero>
+        <nombre>matilda</nombre>
+        <apellido>Dunnan</apellido>
+        <telefono>350-56-4005</telefono>
+        <direccion>
+            <calle>pila</calle>
+            <ciudad>Niafunké</ciudad>
+            <codigo_postal>20546</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>Mpdunnanl@ed.gov</email>
+        <fecha_inclusion>
+            <fecha>14/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>78</id_pedido>
+            <fecha_compra>07/11/2022</fecha_compra>
+            <fecha_entrega>10/11/2022</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>79</numero>
+        <nombre>kolo</nombre>
+        <apellido>Goggins</apellido>
+        <telefono>243-34-9140</telefono>
+        <direccion>
+            <calle>ferrari</calle>
+            <ciudad>Washington</ciudad>
+            <codigo_postal>20546</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>egogginsm@netlog.com</email>
+        <fecha_inclusion>
+            <fecha>24/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>79</id_pedido>
+            <fecha_compra>25/10/2022</fecha_compra>
+            <fecha_entrega>26/10/2022</fecha_entrega>
+            <total_factura>94€</total_factura>
+            <producto>
+                <nombre_producto>segunda equipacion del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>94€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+
+    <pedido>
+        <numero>80</numero>
+        <nombre>Stéphanie</nombre>
+        <apellido>Oliver</apellido>
+        <telefono>642-31-9557</telefono>
+        <direccion>
+            <calle>Crescent Oaks</calle>
+            <ciudad>Piñahan</ciudad>
+            <codigo_postal>1100</codigo_postal>
+            <provincia>District of Columbia</provincia>
+        </direccion>
+        <email>colivern@gnu.org</email>
+        <fecha_inclusion>
+            <fecha>14/10/2022</fecha>
+            <año>2022</año>
+            <trimestre>8</trimestre>
+        </fecha_inclusion>
+        <datosPedido>
+            <id_pedido>80</id_pedido>
+            <fecha_compra>10/11/2022</fecha_compra>
+            <fecha_entrega>11/11/2022</fecha_entrega>
+            <total_factura>25€</total_factura>
+            <producto>
+                <nombre_producto>gorra del barcelona</nombre_producto>
+                <referencia>01</referencia>
+                <precio>25€</precio>
+                <unidades>1</unidades>
+            </producto>
+        </datosPedido>
+    </pedido>
+
+</pedidos>
